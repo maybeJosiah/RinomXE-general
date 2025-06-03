@@ -1,2 +1,2 @@
-# RinomXE-general
-RinomXE is 3 or more dimensional Euclidean graphics. It may almost be called unbounded or infinite dimensional graphics but computers are finite. It operates on whole shapes and draw orders on averages so it is somewhat inaccurate. X E.
+# RinomXE general
+RinomXE is 3 or more dimensional Euclidean graphics. It may almost be called unbounded dimensional graphics or infinite dimensional graphics but computers are finite and therefore it can only simulate what your computer is capable of. It operates on whole shapes and draw orders on averages so it is somewhat inaccurate. For more information visit [RinomXE website](https://gugquettex.com/en/project/rinomxe/index.php). It is licensed under this [Software License](https://gugquettex.com/en/project/software-license.php). If you don't want to visit my website, license is basically MIT with no attribution. X E.
