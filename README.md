@@ -4,7 +4,7 @@ RinomXE is 3 or more dimensional Euclidean graphics, many dimensional graphics. 
 Ruby x version is faster and without semicolons. tryXE.rb uses RinomXE Ruby and Ruby2d to draw some things. Unless it is named Rinom...XE it is not RinomXE and is a test. There is one file per each RinomXE version. Associated with each language of RinomXE are extensions, test10000XE.js is Javascript, only one that does not follow having same extension as it tests is testXE.html which is for Javascript RinomXE. Note that unless you find a compiler such as DragonRuby, mRuby, or some Javascript compiler, Ruby and Javascript versions are too slow to be practical.
 
 ## How to use this in pseudocode:
-```
+```javascript
 var drawer=new RinomDrawXE(eyes point, view plane center,
 x,y,z dimensions,initial point capacity, initial shape capacity);
 drawer.addPoint(point);
