@@ -23,7 +23,7 @@ drawer.offset([x,y]);
 
 drawer.setDrawOrder();
 
-//Next go from drawer.drawOrder end to start, each index is a shape, use drawer.points2d same indices as points input in their order.
+//Next go from drawer.drawOrder end to start, each index is a shape, use drawer.points2d same indices as points input in their order. Do not draw shapes where a point is null or has a not a number value.
 
 drawer.reset();
 
