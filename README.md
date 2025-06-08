@@ -28,4 +28,6 @@ drawer.setDrawOrder();
 drawer.reset();
 
 //And you are done this draw call
+
+### Note that it only does math, you are responsible for draw stuff
 X E.
