@@ -1,0 +1,1 @@
+These files are the faster and better versions, by my naming conventions, earlier in alphabet are later versions. Ruby z with semicolons, Ruby y without. Just use them like you would the others with their respective tests. X E.
